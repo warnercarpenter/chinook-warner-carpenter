@@ -1,0 +1,1 @@
+SELECT * from Employee e WHERE e.Title = 'Sales Support Agent';

@@ -1,0 +1,1 @@
+SELECT SUM(i.Total) from Invoice i WHERE year(InvoiceDate) = 2011 OR year(InvoiceDate) = 2009;

@@ -1,0 +1,1 @@
+SELECT COUNT(i.InvoiceLineId) from InvoiceLine i WHERE i.InvoiceId = 37

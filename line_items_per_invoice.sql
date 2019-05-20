@@ -1,0 +1,1 @@
+select COUNT(i.InvoiceLineId) from InvoiceLine i GROUP BY i.InvoiceId
